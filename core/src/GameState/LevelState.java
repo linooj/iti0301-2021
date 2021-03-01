@@ -4,6 +4,7 @@ import TileMap.*;
 import ee.taltech.iti0301.demo.GamePanel;
 
 import java.awt.*;
+//aaaaaaa
 
 public class LevelState extends GameState{
 
@@ -16,8 +17,8 @@ public class LevelState extends GameState{
 
     public void init() {
         tileMap = new TileMap(30);
-        tileMap.loadTiles("tiles.gif");
-        tileMap.loadMap("proov.map.json");
+        tileMap.loadTiles("tiles1.gif");
+        tileMap.loadMap("proov.json");
         tileMap.setPosition(0, 0);
 
     }

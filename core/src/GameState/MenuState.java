@@ -15,13 +15,13 @@ public class  MenuState extends GameState{
 
     private Color titleColor;
     private Font titleFont;
-
+    //aaaaaaaaa
     private Font font;
 
     public MenuState(GameStateManager gsm) {
          this.gsm = gsm;
          try {
-             bg = new Backround("menu.gif", 1);
+             bg = new Backround("menu1.gif", 1);
              bg.setVector(-0.1, 0);
 
              titleColor = new Color(128, 0, 0);
