@@ -1,7 +1,7 @@
 package TileMap;
 
 import java.awt.image.BufferedImage;
-//aaaaaa
+//aaaaa
 
 public class Tile {
 

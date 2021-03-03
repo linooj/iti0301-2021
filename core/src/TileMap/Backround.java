@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.awt.image.*;
 import javax.imageio.ImageIO;
-//aaaaaa
+//aaaaa
 
 public class Backround {
 

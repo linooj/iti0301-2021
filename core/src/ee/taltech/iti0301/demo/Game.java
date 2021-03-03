@@ -1,7 +1,7 @@
 package ee.taltech.iti0301.demo;
 
 import javax.swing.JFrame;
-//aaa
+//aa
 
 public class Game {
     public static void main(String[] args) {

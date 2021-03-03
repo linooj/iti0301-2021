@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.image.*;
 import java.io.*;
 import javax.imageio.ImageIO;
-//aaaaaa
+//aaaaa
 
 public class TileMap {
     //position

@@ -4,7 +4,7 @@ import TileMap.*;
 import ee.taltech.iti0301.demo.GamePanel;
 
 import java.awt.*;
-//aaaaaaa
+//aaaaaa
 
 public class LevelState extends GameState{
 
